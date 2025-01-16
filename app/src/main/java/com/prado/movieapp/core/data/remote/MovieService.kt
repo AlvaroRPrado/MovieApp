@@ -1,6 +1,5 @@
 package com.prado.movieapp.core.data.remote
 
-import android.graphics.Movie
 import com.prado.movieapp.core.data.remote.response.MovieDetaisResponse
 import com.prado.movieapp.core.data.remote.response.MovieResponse
 import com.prado.movieapp.core.data.remote.response.SearchResponse
